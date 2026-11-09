@@ -1,0 +1,6 @@
+{
+  "name": "Veritas DEX — Transparent User-Owned Liquidity Model",
+  "description": "A comprehensive business model, architectural blueprint, and interactive economic simulator proposing a superior decentralized exchange architecture to Hyperliquid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
